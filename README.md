@@ -1,39 +1,50 @@
 # html-assignments
 
+
+
+
+
+
+
+
 from (1:5)
+
+
+
 التكليف 01
      Hyper Text Markup Language
+
+--------------------------------------------------------------------------
 التكليف 02
      
 
-     <!DOCTYPE html>
-	<html lang="en">
+  <!DOCTYPE html>
+<html lang="en">
 
-      <head>
+  <head>
+    <title>My First Page</title>
       <meta charset="UTF-8">
       <meta name="description" content="This Is Description For My First Page">
-      <title>My First Page</title>
+      <style></style>
+      <script></script>
+      <link rel="stylesheet" href="style.css">
+  </head>
 
-     </head>
+  <body>
+      <p> This Is My First Page</p>
+  </body>
 
-      <body>
-       <p> This Is My First Page</p>
-       <style></style>
-       <script></script>
-       <link rel="stylesheet" href="style.css">
+</html>
 
-      </body>
-
-   </html>
 --------------------------------------------------------------------------
 
 التكليف 03
 
-1=> yes
+1=> no
 2=> yes
-3=> yes
+3=> no
 4=> no
-
+--------------------------------------------------------------------------
 التكليف 04
 
 <!-- Define the author of a page: -->
@@ -51,7 +62,7 @@ from (1:5)
 
 
 
-
+--------------------------------------------------------------------------
 
 
 
